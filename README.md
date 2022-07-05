@@ -1,5 +1,5 @@
 # bitcoin-growth
-Script for shoe bitcoin growth
+Script for show bitcoin growth
 
 # output
 ```
